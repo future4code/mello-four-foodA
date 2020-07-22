@@ -1,26 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useReducer } from "react";
+import Router from "./routes";
 
-function App() {
+import StoreContext from "./contexts/StoreContext";
+import { storeReducer, initialState } from "./reducers/store";
+
+import CssBaseline from "@material-ui/core/CssBaseline";
+
+const App = () => {
+  const [state, dispatch] = useReducer(storeReducer, initialState);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <StoreContext.Provider value={{ state, dispatch }}>
+      <CssBaseline />
+      <Router />
+    </StoreContext.Provider>
   );
-}
+};
 
 export default App;

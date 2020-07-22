@@ -1,68 +1,91 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## MELLO-FOUR-FOODA
 
-## Available Scripts
+#### Ana Zimerer
 
-In the project directory, you can run:
+#### Eduardo Pezzi
 
-### `npm start`
+#### Kaueny Alves
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Yuzo Santana Okamoto
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+#### Renan Takeshi
 
-### `npm test`
+## O que funciona
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Splashscreen
+- Login, Signup e Cadastro de endereço
+- Feed dos restaurantes
+- Busca
+- Página do restaurante
+- Carrinho
+- Perfil com ordens anteriores
+- Edição de perfil e endereço
+- Barra de Pedido em andamento
 
-### `npm run build`
+## O que não funciona
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ¯\\\_(ツ)\_/¯
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Link Surge
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- email: future@future
+- senha: future
+- [http://ifuturea.surge.sh](http://ifuturea.surge.sh/login)
 
-### `npm run eject`
+## Imagens
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Splashscreen
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ![image](https://user-images.githubusercontent.com/10583511/87868928-6cad3700-c971-11ea-9248-b16371640f3c.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Login
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  ![image](https://user-images.githubusercontent.com/10583511/87866965-76796f00-c95e-11ea-8b67-077797ec648a.png)
 
-## Learn More
+- Signup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  ![image](https://user-images.githubusercontent.com/10583511/87866988-c5bf9f80-c95e-11ea-9e5f-15928ecf225c.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Cadastro de endereco
 
-### Code Splitting
+  ![image](https://user-images.githubusercontent.com/10583511/87867045-23ec8280-c95f-11ea-9c69-a65f2baea823.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+- Feed
 
-### Analyzing the Bundle Size
+  ![image](https://user-images.githubusercontent.com/10583511/87870694-d6810d00-c980-11ea-920d-2d4960de818b.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Busca
 
-### Making a Progressive Web App
+  ![image](https://user-images.githubusercontent.com/10583511/87867774-e68bf300-c966-11ea-8b92-294bbe4f73f7.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- Restaurante
 
-### Advanced Configuration
+  ![image](https://user-images.githubusercontent.com/10583511/87867788-0f13ed00-c967-11ea-915c-561f5d84b98a.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- Carrinho
 
-### Deployment
+  ![image](https://user-images.githubusercontent.com/10583511/87868857-de38b580-c970-11ea-8c58-50cd155a43a3.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- Pedido em andamento
 
-### `npm run build` fails to minify
+  ![image](https://user-images.githubusercontent.com/10583511/87870711-fd3f4380-c980-11ea-8fc9-f99c105f4272.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Perfil
+
+  ![image](https://user-images.githubusercontent.com/10583511/87868904-3e2f5c00-c971-11ea-907b-4fc2709087e1.png)
+
+- Editar perfil
+
+  ![image](https://user-images.githubusercontent.com/10583511/87868908-4be4e180-c971-11ea-98e9-4e38798fcfd2.png)
+
+- Editar endereco
+
+  ![image](https://user-images.githubusercontent.com/10583511/87868919-5d2dee00-c971-11ea-9187-2d0978037c8f.png)
+
+- Perfil sem endereco
+
+  ![image](https://user-images.githubusercontent.com/10583511/87868940-8d758c80-c971-11ea-9dfb-acfc07db643e.png)
+
+- Feed sem endereco
+
+  ![image](https://user-images.githubusercontent.com/10583511/87869089-37094d80-c973-11ea-865d-70410dc02417.png)
